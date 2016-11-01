@@ -1,2 +1,2 @@
 # JavaExersices
-Java exersices
+This is the repo for learning Java :shipit:
