@@ -1,3 +1,2 @@
 # JavaExersices
-This is the repo for learning Java 
-README.md
+This is the repo for learning Java
